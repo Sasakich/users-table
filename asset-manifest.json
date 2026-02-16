@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sasakich/users-table.git/static/css/main.2beb919d.css",
+    "main.js": "/Sasakich/users-table.git/static/js/main.c664ac74.js",
+    "index.html": "/Sasakich/users-table.git/index.html",
+    "main.2beb919d.css.map": "/Sasakich/users-table.git/static/css/main.2beb919d.css.map",
+    "main.c664ac74.js.map": "/Sasakich/users-table.git/static/js/main.c664ac74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2beb919d.css",
+    "static/js/main.c664ac74.js"
+  ]
+}
